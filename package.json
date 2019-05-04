@@ -1,0 +1,14 @@
+{
+  "name": "simple-crud-with-mongodb-driver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mongodb_driver_nodeJS_CRUD.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.2.3"
+  }
+}
